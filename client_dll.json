@@ -7447,27 +7447,7 @@
         },
         "type": "uint32"
       },
-      "_00x__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_0_o__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_H_o__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_U_o__": {
-        "alignment": 111,
-        "members": {},
-        "type": "unknown"
-      },
-      "_m_o__": {
+      "_0____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
